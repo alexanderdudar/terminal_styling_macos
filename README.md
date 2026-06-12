@@ -1,7 +1,5 @@
 # terminal_styling_macos
 
-Personal terminal styling for macOS.
-
 ### Setup Instructions
 Add following to your existing `~/.zshrc`.
 
